@@ -1,7 +1,9 @@
 <h1 align="center">olá 👋, eu sou Darwins Suarez</h1>
 <h3 align="center">Sou frontend em treinamento e moro no interior de São Paulo.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/suarezdarwins](https://github.com/suarezdarwins)
+- 👨‍💻 Meus trabalhos estão disponíveis em: [https://github.com/suarezdarwins](https://github.com/suarezdarwins)
+  
+- 👨‍💻 Você pode entrar em contato comigo por: [https://github.com/suarezdarwins](https://github.com/suarezdarwins)
 
 - 💬 Ask me about **HTML**
 
