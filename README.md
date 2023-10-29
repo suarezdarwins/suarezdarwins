@@ -3,7 +3,7 @@
 
 - 👨‍💻 Meus trabalhos estão disponíveis em: [https://github.com/suarezdarwins](https://github.com/suarezdarwins)
   
-- 👨‍💻 Você pode entrar em contato comigo por: [https://github.com/suarezdarwins](https://github.com/suarezdarwins)
+- 👨‍💻 Você pode entrar em contato comigo por: [e-mail](suarezptcbrasil@gmail.com)
 
 - 💬 Ask me about **HTML**
 
