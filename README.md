@@ -1,5 +1,5 @@
 <h1 align="center">olá 👋, eu sou Darwins Suarez</h1>
-<h3 align="center">Eu sou um frontend em treinamento Sou frontend em treinamento e moro no interior de São Paulo.</h3>
+<h3 align="center">Sou frontend em treinamento e moro no interior de São Paulo.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/suarezdarwins](https://github.com/suarezdarwins)
 
